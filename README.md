@@ -1,21 +1,6 @@
-# Arunima B Raj  
-### 🌐 *Network Engineer | Problem Solver | Tech Enthusiast*  
 
----
-
-## 📞 *Contact Me*  
-- *Phone:* +91 9778315911  
-- *Email:* [rajbarunima@gmail.com](mailto:rajbarunima@gmail.com)  
-- *Location:* Aluva, Eranakulam  
-
-🔗 *Connect with me:*  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/your-instagram-profile)  
-
----
-
-## 🚀 *About Me*  
-Hey there! 👋 I'm a *Cisco Certified Network Associate (CCNA)* with a passion for building, maintaining, and securing networks. I thrive on solving complex network puzzles and ensuring smooth connectivity for users. Whether it's configuring routers, troubleshooting connectivity issues, or designing LAN/WAN systems, I'm your go-to person!  
+### Hey there! 👋 
+I'm Arnima B Raj, a *Cisco Certified Network Associate (CCNA)* with a passion for building, maintaining, and securing networks. I thrive on solving complex network puzzles and ensuring smooth connectivity for users. Whether it's configuring routers, troubleshooting connectivity issues, or designing LAN/WAN systems, I'm your go-to person!  
 
 Currently working as a **TAC L1 Engineer** at **Keralavision Broadband**.
 
