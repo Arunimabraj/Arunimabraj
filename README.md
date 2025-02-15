@@ -1,5 +1,5 @@
 
-### Hey there! 👋 
+# Hey there! 👋
 I'm Arnima B Raj, a *Cisco Certified Network Associate (CCNA)* with a passion for building, maintaining, and securing networks. I thrive on solving complex network puzzles and ensuring smooth connectivity for users. Whether it's configuring routers, troubleshooting connectivity issues, or designing LAN/WAN systems, I'm your go-to person!  
 
 Currently working as a **TAC L1 Engineer** at **Keralavision Broadband**.
