@@ -17,6 +17,8 @@
 ## 🚀 *About Me*  
 Hey there! 👋 I'm a *Cisco Certified Network Associate (CCNA)* with a passion for building, maintaining, and securing networks. I thrive on solving complex network puzzles and ensuring smooth connectivity for users. Whether it's configuring routers, troubleshooting connectivity issues, or designing LAN/WAN systems, I'm your go-to person!  
 
+Currently working as a **TAC L1 Engineer** at **Keralavision Broadband**.
+
 💡 *Fun Fact:* I can subnet faster than you can say "IP address"!  
 
 ---
@@ -29,37 +31,20 @@ Hey there! 👋 I'm a *Cisco Certified Network Associate (CCNA)* with a passion 
 - 📶 *Wireless Networking:* Setting up and troubleshooting Wi-Fi networks.  
 - 🧩 *Troubleshooting:* Fixing network issues before you even notice them.  
 
-### *Soft Skills*  
-- 🗣 *Communication:* Explaining tech stuff in plain English.  
-- 🤝 *Teamwork:* Collaborating with teams to achieve seamless network operations.  
-- ⏰ *Time Management:* Delivering solutions on time, every time.  
-
 ---
 
 ## 💼 *Experience*  
+### **TAC L1 Engineer Skills**  
+- 🛠 **Technical Support:** Providing first-level support for network issues.  
+- 📞 **Customer Interaction:** Helping users with connectivity problems and guiding them to solutions.  
+- 🔍 **Issue Diagnosis:** Identifying and resolving network problems efficiently.  
+- 📊 **Network Monitoring:** Keeping an eye on network performance and ensuring uptime.
+
 ### *Skill Development Programme on CCNA*  
 *Keltron*  
 - 🎓 Gained in-depth knowledge of *IP addressing, subnetting, and network protocols*.  
 - 🛠 Hands-on experience in configuring *routers and switches* for small to medium-sized networks.  
 - 🚀 Developed *problem-solving skills* to tackle network connectivity and performance issues.  
-
----
-
-## 🎓 *Education*  
-- *Bachelor of Technology in Computer Science Engineering*  
-  Indira Gandhi Institute of Engineering and Technology, Kothamangalam | 2020–2024  
-
-- *Higher Secondary (Science)*  
-  G.H.S.S Muppathadam | 2018–2020  
-
-- *Matriculate Education*  
-  St. Francis HS for Girls, Aluva  
-
----
-
-## 📜 *Certifications*  
-- *Cisco Certified Network Associate (CCNA)*  
-  Keltron  
 
 ---
 
